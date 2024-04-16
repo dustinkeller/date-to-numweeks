@@ -1,5 +1,5 @@
 # Date -> Number of Weeks
-Python script that will find out what week number a timestamped entry in an Excel sheet is in, given a specified start date.
+Python script that will find out what week number a timestamped entry in an Excel sheet is in, given a specified start date. It assumes you have an Excel file containing a column titled `Timestamp`.
 
 # Usage
 Open the terminal and run the following to install all dependencies:
